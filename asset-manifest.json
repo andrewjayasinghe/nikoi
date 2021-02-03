@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nikoi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nikoi/static/js/main.3911b3a3.chunk.js",
+    "main.js.map": "/nikoi/static/js/main.3911b3a3.chunk.js.map",
+    "runtime-main.js": "/nikoi/static/js/runtime-main.f0330007.js",
+    "runtime-main.js.map": "/nikoi/static/js/runtime-main.f0330007.js.map",
+    "static/js/2.3692a0e3.chunk.js": "/nikoi/static/js/2.3692a0e3.chunk.js",
+    "static/js/2.3692a0e3.chunk.js.map": "/nikoi/static/js/2.3692a0e3.chunk.js.map",
+    "static/js/3.92a11c01.chunk.js": "/nikoi/static/js/3.92a11c01.chunk.js",
+    "static/js/3.92a11c01.chunk.js.map": "/nikoi/static/js/3.92a11c01.chunk.js.map",
+    "index.html": "/nikoi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nikoi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3692a0e3.chunk.js.LICENSE.txt": "/nikoi/static/js/2.3692a0e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nikoi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0330007.js",
+    "static/js/2.3692a0e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3911b3a3.chunk.js"
+  ]
+}
